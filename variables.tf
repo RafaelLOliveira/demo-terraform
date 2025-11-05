@@ -24,7 +24,7 @@ variable "zone" {
 }
 
 variable "vsi_name" {
-  default     = "demo-vsi-instance"
+  default     = "demo-vsi"
   description = "Name of the virtual server instance"
 }
 
